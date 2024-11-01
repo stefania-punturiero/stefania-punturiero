@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @stefania-punturiero
 - 👀 I’m interested in Engineering and High-Tech
-- 🌱 I’m currently learning the basics of DevOps Engineering, but I'm a Junior Mechanical Engineer
+- 🌱 I am an Industrial Engineering student, certified DevOps Engineer and currently working full-time as a data analyst for a multinational company in the insurance industry
+-  :trophy: My goal is to become an excellent ML Engineer. I am already working on it! I'll keep you updated
+-  :speaking_head: I speak four lenguages: Italian, English, Spanish and French
 - 💞️ I’m looking to collaborate on new challenges! I love learning new skills and I'm open to work and collaborate on different fields
 - 📫 How to reach me: via mail or LinkedIn. Url in bio!
 
